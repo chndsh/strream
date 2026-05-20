@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@stream-io/node-sdk": "^0.7.57"
+  }
+}
